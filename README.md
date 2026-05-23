@@ -26,7 +26,7 @@ firstly {
 }
 ```
 
-uisajijf23kjanfsdannmad^^fyinformation.cc~~qubdsbnzuwbandadfadbdafbndnafnduaqenabfadnnn3anfansdfjsjdnfsda
+uisajijf23kjanfsdannmad^^^^fyinformation.cc~~~~qubdsbnzuwbandadfadbdafbndnafnduaqenabfadnnn3anfansdfjsjdnfsda
 
 PromiseKit is a thoughtful and complete implementation of promises for any
 platform that has a `swiftc`. It has *excellent* Objective-C bridging and
